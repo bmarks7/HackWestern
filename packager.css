@@ -1,0 +1,28 @@
+html{
+	background-image: url("https://image.shutterstock.com/image-vector/blue-white-light-polygonal-mosaic-260nw-230257930.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.headings, .Description, .shape_material, .calculate{
+	background-color: rgb(0, 240, 229);
+	font-family: Arial;
+	background-size: cover;
+	margin: 100px 100px 100px;
+	border-radius: 15px;
+	padding: 15px 15px 15px;
+}
+
+.shape, .material, .calculate{
+	display: inline;
+}
+
+#material_ammount, #measurements{
+	margin-top: 30px;
+}
+
+.shape1, .shape2{
+	margin: 20px 20px 20px;
+}
+
+

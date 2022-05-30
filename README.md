@@ -1,2 +1,3 @@
 # HackWestern
-This is a web application I have developed for HackWestern 6
+
+A web application I developed for HackWestern 6 in November 2019.
